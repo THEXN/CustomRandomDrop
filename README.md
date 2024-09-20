@@ -1,3 +1,5 @@
+# 本仓库已不再更新，已经整合到：https://github.com/UnrealMultiple/TShockPlugin，后续更新均会发布至此仓库
+# This repository is no longer updated and has been integrated into: https://github.com/UnrealMultiple/TShockPlugin. All future updates will be published there.
 # 怪物死亡掉落随机物品和自定义 插件使用介绍
 怪物死亡掉落随机物品和自定义 是一个用于 Terraria 游戏的插件，它允许玩家自定义怪物死亡时的随机掉落物。通过简单的配置，你可以改变怪物掉落物品的概率和数量，还可以排除某些物品不进行掉落。
 ## 安装
